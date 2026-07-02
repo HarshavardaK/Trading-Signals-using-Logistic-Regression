@@ -1,7 +1,7 @@
 # Trading-Signals-using-Logistic-Regression
 # Trading Signals using Logistic Regression
 
-### ~By Harshavarda Kumarasamy (23NA10017)
+### ~By Harshavarda Kumarasamy (23NA3FP47)
 
 ---
 
